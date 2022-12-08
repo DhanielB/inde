@@ -1,0 +1,16 @@
+{
+  "name": "inde.css",
+  "version": "1.0.0",
+  "main": "css/inde.css",
+  "style": "css/inde.css",
+  "repository": "https://github.com/DhanielB/inde",
+  "author": "Dhaniel Brandão <82909711+DhanielB@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.2.5"
+  },
+  "scripts": {
+    "dev": "node ./js/index.js"
+  }
+}
